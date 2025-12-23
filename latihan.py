@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 import plotly.express as px
 
-st.title('Hello, Streamlit!')
+st.title('Hello World')
 st.write('This is a simple Streamlit application.')
 
 st.write('Ini contoh *huruf miring*')
